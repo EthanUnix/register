@@ -1,1 +1,17 @@
+{
+  "repo": ""https://github.com/EthanUnix/is-a-good-dev"",
 
+  "owner": {
+    "username": "EthanUnix",
+    "email": "lollyethan25@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "EthansJournal", 
+       "value": "ethansjournal-web.pages.dev"
+     }
+  },
+
+  "proxied": true
+}
