@@ -8,7 +8,7 @@
   "target": {
     "CNAME": {
        "name": "EthansJournal", 
-       "value": "ethansjournal-web.pages.dev"
+       "value": "ethansjournal.netlify.app"
      }
   },
 
